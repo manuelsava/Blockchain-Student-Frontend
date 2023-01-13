@@ -1,0 +1,10 @@
+.NavField{
+    color: #bbb;
+    padding-top: 4px;
+    padding-left: 15px;
+    text-decoration: solid;
+}
+
+.NavField:hover{
+    color: #fff;
+}
